@@ -1,4 +1,4 @@
-## Adding a conference
+## Adding a meetup
 - [ ] Suggestion is not a duplicate
 - [ ] Suggestion is under the proper category
 - [ ] Link to meetup is included 
