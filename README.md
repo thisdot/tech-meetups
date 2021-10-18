@@ -4,8 +4,7 @@ We would love to know which meetups you think deserve to be included in our list
 
 ### Tech Meetups
 
-- [Triangle Modern Web Meetup (Raleigh, NC)](https://www.meetup.com/trianglemodernweb/)
- Modern Web Triangle explores next generation frameworks, standards, and techniques through variety shows, events, conferences, and social hours.
+- [Triangle Modern Web Meetup (Raleigh, NC)](https://www.meetup.com/trianglemodernweb/)- Modern Web Triangle explores next generation frameworks, standards, and techniques through variety shows, events, conferences, and social hours.
 
 
 ### Angular
