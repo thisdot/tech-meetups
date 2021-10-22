@@ -20,6 +20,6 @@ We would love to know which meetups you think deserve to be included in our list
 
 ### React
 - [React.js Girls](https://www.meetup.com/ReactJS-Girls-London/) - React.js Girls aims to voice women engineers who want to learn and teach their experience using React. All are welcomed!
-- [State of React](https://www.reactjsmeetup.com/#/) - State of React is React meetup hosted multiple times a year by This Dot Media. Join a panel of React experts, enthusiasts, and contributors and get the opportunity to ask questions live!
+- [State of React](https://www.reactjsmeetup.com/#/) - State of React is a React meetup hosted multiple times a year by This Dot Media. Join a panel of React experts, enthusiasts, and contributors and get the opportunity to ask questions live!
 - [React Robins](https://www.reactladies.com/) - React Robins is a supportive community for women and non-binary React enthusiasts with any level of programming experience to grow as technologists and meet other React developers. Their events are centered around technologies within the React ecosystem.
 - [Kansas City React](https://www.meetup.com/Kansas-City-React-Meetup/events/) - Kansas City React hosts monthly meetups for anyone interested in learning, teaching, and sharing React. They also have a private Slack channel where you can ask questions and get help from other members.
