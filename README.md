@@ -2,7 +2,15 @@ Here you will find a list of different tech meetups that cover a vast array of d
 
 We would love to know which meetups you think deserve to be included in our list. If you'd like to contribute, please see [our contributing guidelines.](./CONTRIBUTING.md)
 
-### Tech Meetups
+## Table of Contents
+
+[General Tech](#general-tech)
+
+[Angular](#angular)
+
+[React](#react)
+
+### General Tech
 
 - [Triangle Modern Web Meetup (Raleigh, NC)](https://www.meetup.com/trianglemodernweb/) - Modern Web Triangle explores next generation frameworks, standards, and techniques through variety shows, events, conferences, and social hours.
 
