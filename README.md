@@ -16,7 +16,13 @@ We would love to know which meetups you think deserve to be included in our list
 
 
 ### Angular
-- [AngularAthens](https://twitter.com/AthensAngular) - A community for both newbies and experienced developers who want to explore the huge ecosystem around Angular framework, learn new things, and share knowledge and best practices along with front end development in general.
+- [Angular Athens](https://twitter.com/AthensAngular) - A community for both newbies and experienced developers who want to explore the huge ecosystem around Angular framework, learn new things, and share knowledge and best practices along with front end development in general.
+- [State of Angular](https://www.angularmeetup.com/#/) - State of Angular is an Angular meetup hosted multiple times a year by This Dot Media. Join a panel of Angular experts, enthusiasts, and contributors and get the opportunity to ask questions live!
+- [Angular Seattle](https://www.meetup.com/Angular-Seattle/) - Angular Seattle hosts regular Angular talks, meetups, and workshops with industry leaders.
+- [Angular Community](https://angularcommunity.net/home) - Angular Community was founded with the goal of bringing Angular developers together from all over the world. They hold monthly virtual events, and welcome Angular enthusiasts of all levels!
+- [Angular KC](https://angularkc.github.io/) - AngularKC hosts monthly trainings, discussions, and networking events for Angular newbies and enthusiasts alike! They also have a private Slack channel for year-round Angular discussions.
+- [Advanced Angular Lunch (St. Louis)](https://www.meetup.com/Angular-Lunch/) - This group meets monthly to discuss deep Angular topics, and is geared towards more advanced Angular users, though they welcome all levels of experience.
+- [Angular London](https://www.meetup.com/Angular-London/) - Angular London is the largest Angular meetup in Europe. They hold meetups in and around London, that focus on learning about Angular, sharing knowledge and networking with fellow Angularians!
 
 ### React
 - [React.js Girls](https://www.meetup.com/ReactJS-Girls-London/) - React.js Girls aims to voice women engineers who want to learn and teach their experience using React. All are welcomed!
