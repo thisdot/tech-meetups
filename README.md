@@ -13,7 +13,7 @@ We would love to know which meetups you think deserve to be included in our list
 ### General Tech
 
 - [Triangle Modern Web Meetup (Raleigh, NC)](https://www.meetup.com/trianglemodernweb/) - Modern Web Triangle explores next generation frameworks, standards, and techniques through variety shows, events, conferences, and social hours.
-
+- [ExchangeJS (Edmonton, AB)](https://exchangejs.com/) - Exchange JS is a group for Javascript developers and anyone interested in Javascript. Activities include a local/virtual monthly meetup, and presentations hosted on YouTube.
 
 ### Angular
 - [Angular Athens](https://twitter.com/AthensAngular) - A community for both newbies and experienced developers who want to explore the huge ecosystem around Angular framework, learn new things, and share knowledge and best practices along with front end development in general.
