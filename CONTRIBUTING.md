@@ -2,7 +2,7 @@
 
 Thank you for your interest in contributing to the tech-meetups repository! We are looking for additional meetups to add to our expanding list.
 
-## Tech meetups categories
+## Tech meetup categories
 
 Here are the following categories to contribute to:
 
