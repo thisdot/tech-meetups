@@ -14,6 +14,7 @@ We would love to know which meetups you think deserve to be included in our list
 
 - [ExchangeJS (Edmonton, AB)](https://exchangejs.com/) - Exchange JS is a group for Javascript developers and anyone interested in Javascript. Activities include a local/virtual monthly meetup, and presentations hosted on YouTube.
 - [Triangle Modern Web Meetup (Raleigh, NC)](https://www.meetup.com/trianglemodernweb/) - Modern Web Triangle explores next generation frameworks, standards, and techniques through variety shows, events, conferences, and social hours.
+- [HackerNest (Toronto, ON)](https://www.meetup.com/hackernest/) - HackerNest runs public and curated tech events that connect people and organizations in the community.
 
 ### Angular
 
