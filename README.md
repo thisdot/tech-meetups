@@ -35,4 +35,4 @@ We would love to know which meetups you think deserve to be included in our list
 - [React.js Girls](https://www.meetup.com/ReactJS-Girls-London/) - React.js Girls aims to voice women engineers who want to learn and teach their experience using React. All are welcomed!
 - [Reactjsday](https://2022.reactjsday.it/) - reactjsday is the Italian React conference, organized by GrUSP. The event’s goal is to allow all React developers to meet and share experience while having fun and networking in an enjoyable context.
 - [State of React](https://www.reactjsmeetup.com/#/) - State of React is a React meetup hosted multiple times a year by This Dot Media. Join a panel of React experts, enthusiasts, and contributors and get the opportunity to ask questions live!
-- [ReactJS Bangalore](https://www.meetup.com/ReactJS-Bangalore/) - ReactJS Bangalore organize meetups and workshops regularly to share knowledge and experiences about react ecosystem.
+- [ReactJS Bangalore](https://www.meetup.com/ReactJS-Bangalore/) - ReactJS Bangalore organizes meetups and workshops regularly to share knowledge and experiences about the React ecosystem.
