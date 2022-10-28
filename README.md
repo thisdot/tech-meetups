@@ -25,6 +25,7 @@ We would love to know which meetups you think deserve to be included in our list
 - [Angular London](https://www.meetup.com/Angular-London/) - Angular London is the largest Angular meetup in Europe. They hold meetups in and around London, that focus on learning about Angular, sharing knowledge and networking with fellow Angularians!
 - [Angular Seattle](https://www.meetup.com/Angular-Seattle/) - Angular Seattle hosts regular Angular talks, meetups, and workshops with industry leaders.
 - [State of Angular](https://www.angularmeetup.com/#/) - State of Angular is an Angular meetup hosted multiple times a year by This Dot Media. Join a panel of Angular experts, enthusiasts, and contributors and get the opportunity to ask questions live!
+- [Angular Toronto](https://www.meetup.com/angulartoronto) - Angular 2+ meetup and anything Angular-related (NgRx, nest.js, TypeScript and etc).
 
 ### React
 
