@@ -13,8 +13,11 @@ We would love to know which meetups you think deserve to be included in our list
 ### General Tech
 
 - [ExchangeJS (Edmonton, AB)](https://exchangejs.com/) - Exchange JS is a group for Javascript developers and anyone interested in Javascript. Activities include a local/virtual monthly meetup, and presentations hosted on YouTube.
+- [FrankenJS (Nuremberg/Würzburg, DE)](https://frankenjs.org/) - Franconia's finest Javascript user group, connecting JS heroes and web hackers. Events take place every 2 - 3 months in northern Bavaria.
 - [HackerNest (Toronto, ON)](https://www.meetup.com/hackernest/) - HackerNest runs public and curated tech events that connect people and organizations in the community.
+- [She 'n IT (Nuremberg, DE)](https://sheandit.de/) - She 'n IT is a German-language meetup for women in IT, with technical talks, networking and the opportunity to exchange experiences.
 - [Triangle Modern Web Meetup (Raleigh, NC)](https://www.meetup.com/trianglemodernweb/) - Modern Web Triangle explores next generation frameworks, standards, and techniques through variety shows, events, conferences, and social hours.
+- [Queer.js (Global)](https://queerjs.com/) - Queer.js is a meetup series where everyone is welcome to attend, but all the speakers are queer.
 
 ### Angular
 
